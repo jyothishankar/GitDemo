@@ -14,4 +14,8 @@ public class WebTest
 	{
 		
 	}
+	public void Indeed()
+	{
+		
+	}
 }
